@@ -1,0 +1,35 @@
+TrhynumAO 2.0 BETA
+==================
+
+Gracias por ayudarnos a probar el juego. Esta es una version de prueba:
+puede haber errores, reinicios del servidor y cambios de balance, y los
+personajes podrian borrarse antes del lanzamiento.
+
+Instalacion
+-----------
+Ejecuta TrhynumAO_Beta_Instalador.exe y segui los pasos. Al terminar queda
+un acceso directo "TrhynumAO 2.0 BETA" en el escritorio y en el menu Inicio.
+Ese acceso abre primero el actualizador: si hay una version nueva la baja
+sola y despues entra al juego. Tus opciones y teclas no se tocan.
+
+Si el juego no abre:
+  - Ejecutalo una vez como administrador.
+  - Instala DirectX 8/9 (paquete "DirectX End-User Runtime" de Microsoft).
+
+Como reportar errores
+---------------------
+Cuando algo falle, anota:
+  1. Que estabas haciendo (mapa, hechizo, item, NPC...).
+  2. El mensaje de error exacto (una captura de pantalla es ideal).
+  3. Si se puede repetir, los pasos para que vuelva a pasar.
+Las capturas que saques en el juego quedan en la carpeta del juego.
+
+Novedades a probar
+------------------
+  - Sistema de mejora de armas: fragmentos y gemas en los dungeons Solar,
+    Trhynum y Veril, y el Forjador Arcano en la herreria de Ullathorpe.
+  - Jefes de dungeon (reaparecen a los 15 minutos) y ventana Tiempos.
+  - Vista amplia, sombras, luces, efectos nuevos de hechizos y auras.
+    Todo se puede apagar en Opciones.
+
+Buen juego!
