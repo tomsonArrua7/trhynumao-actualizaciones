@@ -1,3 +1,5 @@
 # TrhynumAO - actualizaciones
 
-Archivos del cliente que baja el actualizador del juego. No hace falta descargar nada de aca: instala el juego y el actualizador se encarga.
+La beta termino. Descarga TrhynumAO 2.0 en https://trhynumao.com.ar
+
+La version oficial se actualiza desde la rama `oficial`.
