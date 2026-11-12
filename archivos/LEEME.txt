@@ -1,0 +1,28 @@
+TrhynumAO 2.0
+=============
+
+Bienvenido a TrhynumAO.
+
+Instalacion
+-----------
+Ejecuta TrhynumAO_2.0_Instalador.exe y segui los pasos. Al terminar queda
+un acceso directo "TrhynumAO 2.0" en el escritorio y en el menu Inicio.
+Entra siempre por ese acceso: abre primero el actualizador, que baja lo
+nuevo, revisa que los archivos del juego esten intactos y despues abre el
+juego. Tus opciones y teclas no se tocan.
+
+Los graficos y los mapas no se pueden modificar: si el actualizador encuentra
+un archivo cambiado o agregado, lo repone o lo borra antes de abrir el juego.
+
+Si el juego no abre:
+  - Ejecutalo una vez como administrador.
+  - Instala DirectX 8/9 (paquete "DirectX End-User Runtime" de Microsoft).
+  - Si el actualizador dice que no pudo verificar el juego, conectate a
+    internet y volve a abrirlo: repara solo lo que haga falta.
+
+Ayuda
+-----
+La wiki con todos los sistemas del juego esta en trhynumao.com.ar.
+Para reportar un problema usa el soporte dentro del juego.
+
+Buen juego!
